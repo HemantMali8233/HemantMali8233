@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Hemant Mali
 
-<!--
-**HemantMali8233/HemantMali8233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer
+🚀 Backend Focused
+🎯 Currently Learning JavaScript & React
+📍 India
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning Full Stack Development
+- ⚡ Building real-world MERN Projects
+- 💡 Love solving programming problems
+
+## Tech Stack
+
+HTML
+CSS
+JavaScript
+React
+Node.js
+Express.js
+MongoDB
+Git
+GitHub
+
+## Current Projects
+
+🔥 Krishi Vigyan Kendra
+🔥 Krishivishwa Biotech
+📚 JavaScript Learning Journey
+
+## Connect With Me
+
+LinkedIn
+Portfolio
+Email
