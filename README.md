@@ -14,7 +14,7 @@
 - 📱 Also build Android apps with **Java & Firebase**
 - 🌱 Continuously exploring REST APIs, authentication systems, and deployment workflows
 - ⚡ Passionate about building **scalable, user-friendly** applications that solve real-world problems
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **hemantmali8233@gmail.com**
 
 ---
 
