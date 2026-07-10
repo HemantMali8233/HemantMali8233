@@ -41,7 +41,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/hemant-mali-835032352" target="_blank">
+  <a href="www.linkedin.com/in/hemant-mali-835032352">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hemantmali8233@gmail.com">
