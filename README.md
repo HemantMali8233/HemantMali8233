@@ -5,6 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Android+%7C+Java+%7C+Firebase;Building+Scalable+Web+Apps;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HemantMali8233&label=Profile%20Views&color=2EA3F7&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/HemantMali8233?label=Followers&style=flat&color=2EA3F7" alt="Followers" />
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -36,6 +41,19 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HemantMali8233&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HemantMali8233&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HemantMali8233&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
 ---
 
 ### 🌐 Connect with Me
@@ -50,3 +68,5 @@
 </p>
 
 ---
+
+
