@@ -25,16 +25,6 @@
 
 ---
 
-### 🌱 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BLE_%2F_IoT_Security-2EA3F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System_Design-2EA3F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-2EA3F7?style=for-the-badge" />
-</p>
-
----
-
 ### 🏆 Achievements
 
 - 🎓 Completed **12 weeks of industrial training** at Sumago Infotech Pvt Ltd
