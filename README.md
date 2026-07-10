@@ -43,9 +43,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HemantMali8233&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HemantMali8233&theme=tokyonight&no-frame=true&row=1&column=7)" />
-</p>
+
 
 ---
 
