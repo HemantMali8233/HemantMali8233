@@ -9,7 +9,6 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **E-Rakshak** — an Android security app for e-vehicle owners, using BLE with HMAC-SHA256 command signing and challenge-response authentication
 - 💻 Experienced across the **MERN stack** — MongoDB, Express.js, React.js, Node.js
 - 📱 Also build Android apps with **Java & Firebase**
 - 🌱 Continuously exploring REST APIs, authentication systems, and deployment workflows
@@ -23,18 +22,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,java,firebase,git,github,androidstudio" />
 </p>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🔐 **E-Rakshak** | Android security app for e-vehicle owners; BLE communication secured with HMAC-SHA256 signing & challenge-response auth to prevent unauthorized remote battery cutoffs |
-| 💰 **Financial Management Web App** | MERN stack app for tracking and managing personal/business finances |
-| 🌾 **Krishivishwa Biotech E-Commerce** | Full-stack e-commerce platform built for a biotech company |
-| 🧠 **Quiz Hub** | Android quiz application built with Java and Firebase for real-time data handling |
-| 🎧 **Spotify Clone** | Static front-end clone built with pure HTML/CSS — practicing Grid, Flexbox, and animations |
 
 ---
 
@@ -63,5 +50,3 @@
 </p>
 
 ---
-
-<p align="center"><i>⭐ From reactive components to signed BLE commands — building things that matter.</i></p>
