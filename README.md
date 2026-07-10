@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Android+%7C+Java+%7C+Firebase;Building+Scalable+Web+Apps;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HemantMali8233&label=Profile%20Views&color=2EA3F7&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/HemantMali8233?label=Followers&style=flat&color=2EA3F7" alt="Followers" />
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -30,6 +25,23 @@
 
 ---
 
+### 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BLE_%2F_IoT_Security-2EA3F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System_Design-2EA3F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-2EA3F7?style=for-the-badge" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+- 🎓 Completed **12 weeks of industrial training** at Sumago Infotech Pvt Ltd
+- 🏅 Awarded **Project Excellence Award** for outstanding project contribution
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -42,11 +54,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HemantMali8233&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=HemantMali8233&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
-
 
 ### 📈 Contribution Graph
 
@@ -68,5 +79,3 @@
 </p>
 
 ---
-
-
